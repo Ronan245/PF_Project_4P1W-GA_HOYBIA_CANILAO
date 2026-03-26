@@ -1,0 +1,258 @@
+{
+  "images": [
+    {
+      "id": "83046ed8dd7a44fd919e6c909447d651",
+      "title": "Red fruit",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f8edcf%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f0a04b%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cellipse%20cx%3D%22320%22%20cy%3D%22250%22%20rx%3D%22112%22%20ry%3D%22102%22%20fill%3D%22%23d83b3b%22%2F%3E%0A%3Crect%20x%3D%22311%22%20y%3D%22126%22%20width%3D%2218%22%20height%3D%2244%22%20rx%3D%228%22%20fill%3D%22%235d3b21%22%2F%3E%0A%3Cpath%20d%3D%22M326%20138%20C380%2084%2C%20432%20110%2C%20418%20160%20C384%20170%2C%20350%20158%2C%20326%20138%20Z%22%20fill%3D%22%235d9746%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1128758Z"
+    },
+    {
+      "id": "5579bb22c1904ac1a66c3cadc382d683",
+      "title": "Teacher gift",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23d8ecff%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%235e9ad6%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Crect%20x%3D%22205%22%20y%3D%22188%22%20width%3D%22230%22%20height%3D%22170%22%20rx%3D%2224%22%20fill%3D%22%23f3c14a%22%2F%3E%0A%3Crect%20x%3D%22304%22%20y%3D%22166%22%20width%3D%2232%22%20height%3D%22194%22%20rx%3D%2212%22%20fill%3D%22%23c74a4a%22%2F%3E%0A%3Crect%20x%3D%22182%22%20y%3D%22246%22%20width%3D%22276%22%20height%3D%2226%22%20rx%3D%2212%22%20fill%3D%22%23c74a4a%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%22162%22%20r%3D%2240%22%20fill%3D%22%23c74a4a%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1130536Z"
+    },
+    {
+      "id": "37fb8fd6e73f40fea85ed774b5667096",
+      "title": "Juice",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e8f4dc%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2374a95d%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cpath%20d%3D%22M252%20138%20L388%20138%20L372%20342%20Q368%20370%20340%20370%20L300%20370%20Q272%20370%20268%20342%20Z%22%20fill%3D%22%23ffe8b1%22%20stroke%3D%22%23a86b2d%22%20stroke-width%3D%2212%22%2F%3E%0A%3Crect%20x%3D%22270%22%20y%3D%22206%22%20width%3D%22100%22%20height%3D%22126%22%20rx%3D%2216%22%20fill%3D%22%23f2c24c%22%2F%3E%0A%3Crect%20x%3D%22382%22%20y%3D%22118%22%20width%3D%2214%22%20height%3D%22120%22%20rx%3D%227%22%20fill%3D%22%2347a25f%22%20transform%3D%22rotate%2818%20389%20178%29%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1131032Z"
+    },
+    {
+      "id": "b91d72b2e7f74d83a5fbed6a96232faa",
+      "title": "Pie",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f9dfe6%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23d46a8c%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cpath%20d%3D%22M198%20308%20L430%20308%20Q404%20170%20316%20170%20Q232%20170%20198%20308%20Z%22%20fill%3D%22%23f1b563%22%2F%3E%0A%3Cpath%20d%3D%22M244%20308%20L394%20308%20Q382%20222%20318%20222%20Q260%20222%20244%20308%20Z%22%20fill%3D%22%23f6e5b6%22%2F%3E%0A%3Cpath%20d%3D%22M226%20316%20L414%20316%20L382%20368%20L258%20368%20Z%22%20fill%3D%22%23d58d49%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.113149Z"
+    },
+    {
+      "id": "b87cdf1d6279471398d82a6d60fdafa1",
+      "title": "Umbrella",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f8edcf%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f0a04b%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cpath%20d%3D%22M196%20222%20Q320%20108%20444%20222%20Z%22%20fill%3D%22%235e7dd6%22%2F%3E%0A%3Crect%20x%3D%22312%22%20y%3D%22222%22%20width%3D%2216%22%20height%3D%22122%22%20rx%3D%228%22%20fill%3D%22%236a4526%22%2F%3E%0A%3Cpath%20d%3D%22M320%20344%20Q320%20392%20360%20392%22%20fill%3D%22none%22%20stroke%3D%22%236a4526%22%20stroke-width%3D%2214%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Ccircle%20cx%3D%22190%22%20cy%3D%22142%22%20r%3D%2212%22%20fill%3D%22%237ab5ff%22%2F%3E%0A%3Ccircle%20cx%3D%22238%22%20cy%3D%22106%22%20r%3D%2212%22%20fill%3D%22%237ab5ff%22%2F%3E%0A%3Ccircle%20cx%3D%22436%22%20cy%3D%22126%22%20r%3D%2212%22%20fill%3D%22%237ab5ff%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "weather"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1132244Z"
+    },
+    {
+      "id": "9d624c150ad34da8bfcef565f3265150",
+      "title": "Cloud",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23d8ecff%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%235e9ad6%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Ccircle%20cx%3D%22256%22%20cy%3D%22212%22%20r%3D%2264%22%20fill%3D%22%23c7d3e0%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%22188%22%20r%3D%2284%22%20fill%3D%22%23d8e2ee%22%2F%3E%0A%3Ccircle%20cx%3D%22394%22%20cy%3D%22218%22%20r%3D%2258%22%20fill%3D%22%23c7d3e0%22%2F%3E%0A%3Crect%20x%3D%22236%22%20y%3D%22216%22%20width%3D%22188%22%20height%3D%2274%22%20rx%3D%2232%22%20fill%3D%22%23d8e2ee%22%2F%3E%0A%3Cpath%20d%3D%22M246%20326%20L226%20374%22%20stroke%3D%22%234a84d8%22%20stroke-width%3D%2214%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Cpath%20d%3D%22M320%20326%20L300%20374%22%20stroke%3D%22%234a84d8%22%20stroke-width%3D%2214%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Cpath%20d%3D%22M394%20326%20L374%20374%22%20stroke%3D%22%234a84d8%22%20stroke-width%3D%2214%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "weather"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1132724Z"
+    },
+    {
+      "id": "e445e02b99534eeda9eba501a05225be",
+      "title": "Puddle",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e8f4dc%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2374a95d%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cellipse%20cx%3D%22320%22%20cy%3D%22324%22%20rx%3D%22172%22%20ry%3D%2254%22%20fill%3D%22%236aa9df%22%2F%3E%0A%3Cellipse%20cx%3D%22320%22%20cy%3D%22324%22%20rx%3D%22116%22%20ry%3D%2234%22%20fill%3D%22%238bc0ec%22%2F%3E%0A%3Cpath%20d%3D%22M260%20164%20L236%20246%22%20stroke%3D%22%236b7f8e%22%20stroke-width%3D%2216%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Cpath%20d%3D%22M380%20150%20L356%20250%22%20stroke%3D%22%236b7f8e%22%20stroke-width%3D%2216%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Ccircle%20cx%3D%22244%22%20cy%3D%22134%22%20r%3D%2212%22%20fill%3D%22%237ab5ff%22%2F%3E%0A%3Ccircle%20cx%3D%22366%22%20cy%3D%22122%22%20r%3D%2212%22%20fill%3D%22%237ab5ff%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "weather"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.113318Z"
+    },
+    {
+      "id": "2faacc9a03db43bea0702ea6b5807162",
+      "title": "Wet street",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f9dfe6%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23d46a8c%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cpath%20d%3D%22M210%2092%20L168%20392%20L472%20392%20L430%2092%20Z%22%20fill%3D%22%234f5d6f%22%2F%3E%0A%3Crect%20x%3D%22305%22%20y%3D%22140%22%20width%3D%2218%22%20height%3D%2254%22%20rx%3D%228%22%20fill%3D%22%23f2e27b%22%2F%3E%0A%3Crect%20x%3D%22305%22%20y%3D%22226%22%20width%3D%2218%22%20height%3D%2254%22%20rx%3D%228%22%20fill%3D%22%23f2e27b%22%2F%3E%0A%3Crect%20x%3D%22305%22%20y%3D%22312%22%20width%3D%2218%22%20height%3D%2254%22%20rx%3D%228%22%20fill%3D%22%23f2e27b%22%2F%3E%0A%3Cpath%20d%3D%22M208%20118%20L196%20168%22%20stroke%3D%22%237ab5ff%22%20stroke-width%3D%2212%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Cpath%20d%3D%22M452%20142%20L440%20192%22%20stroke%3D%22%237ab5ff%22%20stroke-width%3D%2212%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "weather"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1133655Z"
+    },
+    {
+      "id": "b3d641eb24744e328b9ca51babe674e9",
+      "title": "Library",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f8edcf%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f0a04b%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Crect%20x%3D%22166%22%20y%3D%22126%22%20width%3D%22308%22%20height%3D%22214%22%20rx%3D%2220%22%20fill%3D%22%23885530%22%2F%3E%0A%3Crect%20x%3D%22204%22%20y%3D%22154%22%20width%3D%2234%22%20height%3D%22158%22%20rx%3D%228%22%20fill%3D%22%23d95b43%22%2F%3E%0A%3Crect%20x%3D%22250%22%20y%3D%22154%22%20width%3D%2234%22%20height%3D%22158%22%20rx%3D%228%22%20fill%3D%22%234f84c4%22%2F%3E%0A%3Crect%20x%3D%22296%22%20y%3D%22154%22%20width%3D%2234%22%20height%3D%22158%22%20rx%3D%228%22%20fill%3D%22%23e3b74f%22%2F%3E%0A%3Crect%20x%3D%22342%22%20y%3D%22154%22%20width%3D%2234%22%20height%3D%22158%22%20rx%3D%228%22%20fill%3D%22%236a9b5f%22%2F%3E%0A%3Crect%20x%3D%22388%22%20y%3D%22154%22%20width%3D%2234%22%20height%3D%22158%22%20rx%3D%228%22%20fill%3D%22%239c5fa7%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "school",
+        "object"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1134123Z"
+    },
+    {
+      "id": "2eb03e1600f24238b91c7570a7945ac0",
+      "title": "Pages",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23d8ecff%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%235e9ad6%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Cpath%20d%3D%22M188%20144%20Q276%20124%20320%20188%20L320%20348%20Q278%20296%20188%20314%20Z%22%20fill%3D%22%23fff8e8%22%20stroke%3D%22%239d8b6f%22%20stroke-width%3D%2210%22%2F%3E%0A%3Cpath%20d%3D%22M452%20144%20Q364%20124%20320%20188%20L320%20348%20Q362%20296%20452%20314%20Z%22%20fill%3D%22%23fff8e8%22%20stroke%3D%22%239d8b6f%22%20stroke-width%3D%2210%22%2F%3E%0A%3Cline%20x1%3D%22240%22%20y1%3D%22214%22%20x2%3D%22292%22%20y2%3D%22214%22%20stroke%3D%22%23cfbe9e%22%20stroke-width%3D%228%22%2F%3E%0A%3Cline%20x1%3D%22350%22%20y1%3D%22214%22%20x2%3D%22402%22%20y2%3D%22214%22%20stroke%3D%22%23cfbe9e%22%20stroke-width%3D%228%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "school",
+        "object"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1134772Z"
+    },
+    {
+      "id": "a3ac3c511e534e369462df8f05790628",
+      "title": "Study",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e8f4dc%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2374a95d%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Crect%20x%3D%22184%22%20y%3D%22306%22%20width%3D%22272%22%20height%3D%2222%22%20rx%3D%2210%22%20fill%3D%22%2396623c%22%2F%3E%0A%3Crect%20x%3D%22266%22%20y%3D%22246%22%20width%3D%22108%22%20height%3D%2242%22%20rx%3D%2214%22%20fill%3D%22%234f84c4%22%2F%3E%0A%3Cpath%20d%3D%22M254%20174%20Q326%20114%20388%20174%22%20fill%3D%22none%22%20stroke%3D%22%23f0c95a%22%20stroke-width%3D%2218%22%20stroke-linecap%3D%22round%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%22170%22%20r%3D%2242%22%20fill%3D%22%23f0c95a%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "school",
+        "object"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1135235Z"
+    },
+    {
+      "id": "3769c9180947420a98e6d611e3c9e049",
+      "title": "Desk",
+      "url": "data:image/svg\u002Bxml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f9dfe6%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23d46a8c%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22640%22%20height%3D%22480%22%20rx%3D%2236%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%3Crect%20x%3D%2228%22%20y%3D%2228%22%20width%3D%22584%22%20height%3D%22424%22%20rx%3D%2224%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%2F%3E%0A%20%20%3Crect%20x%3D%22158%22%20y%3D%22300%22%20width%3D%22324%22%20height%3D%2224%22%20rx%3D%2212%22%20fill%3D%22%238e5c38%22%2F%3E%0A%3Crect%20x%3D%22220%22%20y%3D%22226%22%20width%3D%2290%22%20height%3D%2260%22%20rx%3D%2212%22%20fill%3D%22%23d95b43%22%2F%3E%0A%3Crect%20x%3D%22290%22%20y%3D%22198%22%20width%3D%22102%22%20height%3D%2280%22%20rx%3D%2212%22%20fill%3D%22%234f84c4%22%2F%3E%0A%3Crect%20x%3D%22372%22%20y%3D%22234%22%20width%3D%2270%22%20height%3D%2244%22%20rx%3D%2212%22%20fill%3D%22%23e3b74f%22%2F%3E%0A%3C%2Fsvg%3E",
+      "sourceType": "seed",
+      "tags": [
+        "school",
+        "object"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1135687Z"
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "9adcf257ad90486881e221655dd6b078",
+      "answer": "APPLE",
+      "hint": "A common fruit.",
+      "difficulty": "easy",
+      "imageIds": [
+        "83046ed8dd7a44fd919e6c909447d651",
+        "5579bb22c1904ac1a66c3cadc382d683",
+        "37fb8fd6e73f40fea85ed774b5667096",
+        "b91d72b2e7f74d83a5fbed6a96232faa"
+      ],
+      "acceptableVariants": [
+        "apple fruit"
+      ],
+      "createdAtUtc": "2026-03-22T11:16:59.1146541Z"
+    },
+    {
+      "id": "e84bc2a26c2b468a92515c8a26200bae",
+      "answer": "RAIN",
+      "hint": "Weather that gets you wet.",
+      "difficulty": "easy",
+      "imageIds": [
+        "b87cdf1d6279471398d82a6d60fdafa1",
+        "9d624c150ad34da8bfcef565f3265150",
+        "e445e02b99534eeda9eba501a05225be",
+        "2faacc9a03db43bea0702ea6b5807162"
+      ],
+      "acceptableVariants": [],
+      "createdAtUtc": "2026-03-22T11:16:59.1154008Z"
+    },
+    {
+      "id": "7dae098c57854ca283b6f2362fea48ee",
+      "answer": "BOOK",
+      "hint": "Something you read.",
+      "difficulty": "easy",
+      "imageIds": [
+        "b3d641eb24744e328b9ca51babe674e9",
+        "2eb03e1600f24238b91c7570a7945ac0",
+        "a3ac3c511e534e369462df8f05790628",
+        "3769c9180947420a98e6d611e3c9e049"
+      ],
+      "acceptableVariants": [],
+      "createdAtUtc": "2026-03-22T11:16:59.1155297Z"
+    }
+  ],
+  "packs": [
+    {
+      "id": "99decf731c624148a44e07bfcb11f73f",
+      "name": "Starter Pack",
+      "description": "Easy practice puzzles for first-time players.",
+      "visibility": "public",
+      "status": "published",
+      "sortOrder": 1,
+      "puzzleIds": [
+        "9adcf257ad90486881e221655dd6b078",
+        "e84bc2a26c2b468a92515c8a26200bae"
+      ],
+      "updatedAtUtc": "2026-03-22T11:16:59.1160259Z"
+    },
+    {
+      "id": "255424e91a8045cab3a3dc177f5c33d9",
+      "name": "School Days",
+      "description": "Simple school-themed clues.",
+      "visibility": "public",
+      "status": "published",
+      "sortOrder": 2,
+      "puzzleIds": [
+        "7dae098c57854ca283b6f2362fea48ee"
+      ],
+      "updatedAtUtc": "2026-03-22T11:16:59.1166878Z"
+    }
+  ],
+  "progressEntries": [
+    {
+      "userId": "dacf3486309b4993a4e8cb9803a731df",
+      "score": 10,
+      "attemptsByPuzzleId": {
+        "e84bc2a26c2b468a92515c8a26200bae": 3
+      },
+      "solvedAtByPuzzleId": {
+        "e84bc2a26c2b468a92515c8a26200bae": "2026-03-22T11:17:23.5064577Z"
+      }
+    },
+    {
+      "userId": "e2a97e23d7a64b38989dbc9766960cfe",
+      "score": 20,
+      "attemptsByPuzzleId": {
+        "e84bc2a26c2b468a92515c8a26200bae": 1,
+        "9adcf257ad90486881e221655dd6b078": 1
+      },
+      "solvedAtByPuzzleId": {
+        "e84bc2a26c2b468a92515c8a26200bae": "2026-03-22T11:28:29.835851Z",
+        "9adcf257ad90486881e221655dd6b078": "2026-03-22T11:28:41.828974Z"
+      }
+    },
+    {
+      "userId": "3bf62607dd60404f9a6243928827a816",
+      "score": -2,
+      "attemptsByPuzzleId": {
+        "7dae098c57854ca283b6f2362fea48ee": 1
+      },
+      "solvedAtByPuzzleId": {}
+    },
+    {
+      "userId": "94d666ca60dd4d448e9d59dcd40f6c93",
+      "score": 14,
+      "attemptsByPuzzleId": {
+        "9adcf257ad90486881e221655dd6b078": 1,
+        "e84bc2a26c2b468a92515c8a26200bae": 3,
+        "7dae098c57854ca283b6f2362fea48ee": 1
+      },
+      "solvedAtByPuzzleId": {
+        "9adcf257ad90486881e221655dd6b078": "2026-03-22T11:43:51.5719296Z",
+        "e84bc2a26c2b468a92515c8a26200bae": "2026-03-22T11:44:23.6577653Z"
+      }
+    }
+  ],
+  "tags": [
+    "food",
+    "fruit",
+    "weather",
+    "school",
+    "animal",
+    "object"
+  ]
+}
