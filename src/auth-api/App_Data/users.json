@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3bf62607dd60404f9a6243928827a816",
+    "email": "admin01@gmail.com",
+    "displayName": "Admin User",
+    "role": "admin",
+    "passwordHash": "96PxHyU5af5C9Apu4TiYi4b4qy5ab9wrEVfXBgjnOQA=",
+    "passwordSalt": "MrL1jYouAASF4u/KT1Z4pw==",
+    "createdAtUtc": "2026-03-22T11:05:53.1125264Z"
+  },
+  {
+    "id": "94d666ca60dd4d448e9d59dcd40f6c93",
+    "email": "player01@gmail.com",
+    "displayName": "Player One",
+    "role": "player",
+    "passwordHash": "WF3xQNl27a0HmUQDvyyxFvx5a4jaADwzkxfhQjMLDU8=",
+    "passwordSalt": "mAJ6lKxMr1VcllofnqXQHA==",
+    "createdAtUtc": "2026-03-22T11:05:53.1354782Z"
+  },
+  {
+    "id": "dacf3486309b4993a4e8cb9803a731df",
+    "email": "alex.hoybia@gmail.com",
+    "displayName": "Alexa",
+    "role": "player",
+    "passwordHash": "MLLYmsVNVcpio3Oq0HDouVnBFU0oIoPgX9Ds/qV14vg=",
+    "passwordSalt": "rlyJlYi9pIc0GnryLUK4GQ==",
+    "createdAtUtc": "2026-03-22T11:05:53.2424738Z"
+  },
+  {
+    "id": "e2a97e23d7a64b38989dbc9766960cfe",
+    "email": "alexa.hoybia@gmail.com",
+    "displayName": "Alexa",
+    "role": "player",
+    "passwordHash": "HEW6s9Kjp02ldHQOBcU/fI9lgopXZ3mPOXUpSuOpmCI=",
+    "passwordSalt": "bj8oHUGmeI4VuCb\u002BoeKK2w==",
+    "createdAtUtc": "2026-03-22T11:27:37.2640244Z"
+  }
+]
